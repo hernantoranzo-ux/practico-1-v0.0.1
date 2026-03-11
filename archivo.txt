@@ -21,3 +21,6 @@ probando cambios 5 6 7 8
 ⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠿⠛⠉
 >>>>>>> 90235dd83a921941d00675bd019c9d153016eec4
+cambios en la linea 24 
+PROBANDO NUEVA RAMA FEATURE3
+cambio 12 34
